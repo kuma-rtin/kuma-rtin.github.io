@@ -29,8 +29,8 @@ author:
   bio              : "AI/NLP Researcher"
   location         : "Munich, Germany"
   employer         : "LMU/Heimat Bayern"
-  uri              : "mbar [at] cis [dot] lmu [dot] de"
-  email            : # "mbar [at] cis [dot] lmu [dot] de" 
+  uri              : #
+  email            : # 
 
   # Academic websites
   academia         : # URL
